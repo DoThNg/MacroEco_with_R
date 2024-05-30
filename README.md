@@ -1,6 +1,6 @@
 ## Macroeconomics with R
 
-The objective of this small project is building an Shiny app on Australian macroeconomic overview, using R. This Shiny app obtains historical economic data from Federal Reserve Economic Data (FRED) (https://fred.stlouisfed.org/) and create the corresponding charts.
+The objective of this small project is building a Shiny app on Australian macroeconomic overview, using R. This Shiny app obtains historical economic data from Federal Reserve Economic Data (FRED) (https://fred.stlouisfed.org/) and create the corresponding charts.
 
 **Note**: When running the Shiny app, the data will be downloaded from FRED. As the date range of data is set between July 1969 and the current date when this app is run, the data might be updated or new data might be available after each run.  
 
