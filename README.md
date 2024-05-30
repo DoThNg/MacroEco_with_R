@@ -30,9 +30,13 @@ Organization for Economic Co-operation and Development, Infra-Annual Labor Stati
 
 Steps to run the Shiny App:
 1. Download RStudio Desktop
-2. Open File > New File > Shiny Web App...
+2. In RStudio, Go to File > New File > Shiny Web App...
 
 3. Name the Shiny App and select the directory where the app is located in (A file **app.R** will then be created).
-4. The following codes will be used to run the Shiny app: [Link to app.R]()
-5. To run Shiny App, go to 'Run App' in RStudio.  
+4. The following codes will be used to run the Shiny app: [Link to app.R](https://github.com/DoThNg/MacroEco_with_R/blob/main/app.R)
+5. To run Shiny App, go to 'Run App' in RStudio.
+
+The User Interface of Shiny app is as follows:
+
+[Macroeconomics](https://github.com/DoThNg/MacroEco_with_R/blob/main/macroeconomics.png)
    
