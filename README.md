@@ -26,13 +26,18 @@ International Monetary Fund, General government gross debt for Australia [GGGDTA
 
 Organization for Economic Co-operation and Development, Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia [LRUNTTTTAUM156S], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LRUNTTTTAUM156S, May 28, 2024.
 
+This Shiny App will target to build the followings:
+
+- :white_check_mark: Download historical datasets and render plots accordingly.  
+- :white_large_square: Add forecast functionalities for economic indicators (to-do)
+   
 ---
 
 Steps to run the Shiny App:
 1. Download RStudio Desktop
 2. In RStudio, Go to File > New File > Shiny Web App...
 
-[RStudio](https://github.com/DoThNg/MacroEco_with_R/blob/main/RStudio.png)
+![RStudio](https://github.com/DoThNg/MacroEco_with_R/blob/main/RStudio.png)
 
 3. Name the Shiny App and select the directory where the app is located in (A file **app.R** will then be created).
 4. The following codes will be used to run the Shiny app: [Link to app.R](https://github.com/DoThNg/MacroEco_with_R/blob/main/app.R)
@@ -40,5 +45,5 @@ Steps to run the Shiny App:
 
 The User Interface of Shiny app is as follows:
 
-[Macroeconomics](https://github.com/DoThNg/MacroEco_with_R/blob/main/macroeconomics.png)
+![Macroeconomics](https://github.com/DoThNg/MacroEco_with_R/blob/main/macroeconomics.png)
    
