@@ -26,7 +26,7 @@ International Monetary Fund, General government gross debt for Australia [GGGDTA
 
 Organization for Economic Co-operation and Development, Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Australia [LRUNTTTTAUM156S], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LRUNTTTTAUM156S, May 28, 2024.
 
-This Shiny App will target to build the followings:
+This Shiny App targets to cover the followings:
 
 - :white_check_mark: Download historical datasets and render plots accordingly.  
 - :white_large_square: Add forecast functionalities for economic indicators (to-do)
