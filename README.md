@@ -40,6 +40,7 @@ Steps to run the Shiny App:
 
 3. Name the Shiny App and select the directory where the app is located in (A file **app.R** will then be created).
 4. The following codes will be used to run the Shiny app: [Link to app.R](https://github.com/DoThNg/MacroEco_with_R/blob/main/app.R)
+**Note**: Install the library 'quantmod' in RStudio before running the app.
 5. To run Shiny App, go to 'Run App' in RStudio.
 
 The User Interface of Shiny app is as follows:
